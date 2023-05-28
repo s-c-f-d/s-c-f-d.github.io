@@ -1,5 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.s-c-f-d.org/'
 languageCode = 'en-us'
 title = 'Senior Club For Developer'
-subtitle = 'Senior Club For Developer'
 theme = 'relearn'
