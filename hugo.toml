@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Senior Club For Developer'
+subtitle = 'Senior Club For Developer'
+theme = 'relearn'
